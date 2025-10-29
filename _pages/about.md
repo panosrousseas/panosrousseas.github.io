@@ -12,6 +12,7 @@ He has worked as a Junior Researcher at NTUA for "Pathogen Contamination Emergen
 
 Ongoing Research 
 ======
+Dr. Rousseas is currently researching several key areas in autonomous systems and robotics: 
 
 Synthesis of Complex Time-Varying Constraints
 -----
