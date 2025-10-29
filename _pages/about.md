@@ -16,14 +16,14 @@ Dr. Rousseas is currently researching several key areas in autonomous systems an
 
 Synthesis of Complex Time-Varying Constraints
 -----
-Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
+>Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
 
 <img src="/images/con_of_dis.gif" width="375">   <img src="/images/dis_of_cons.gif" width="375">
 
 Feasibility-Informed Constraint Selection 
 -----
 
-Multiple constraints are often conflicting and incur infeasibility of optimization-based controllers. Detecting infeasibility and selecting among mutually feasible constraints is a challenging open problem.   
+>Multiple constraints are often conflicting and incur infeasibility of optimization-based controllers. Detecting infeasibility and selecting among mutually feasible constraints is a challenging open problem.   
 
 <img src="/images/con_sel.gif" width="775">
 
