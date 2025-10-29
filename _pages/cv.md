@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics and Contorl Theory, School of Mechanical Engineering, National Technical University of Athens (NTUA), Greece, 2025
+* M.Sc., B.S. in Ground and Aerial Transport Vehicles, Mechanical Engineering,  National Technical University of Athens (NTUA), Greece, 2025
 
 Work experience
 ======
