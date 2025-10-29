@@ -10,11 +10,9 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Tutorials on Advanced Control Systems' Theory (2023-2025)
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+- Modelling, Lagrange and Newton Methods,
+- Linearization of Nonlinear Systems,
+- Linear Systems, Controllability/Observability, Feedback Controller/Observer Design,
+- Optimal Control 
