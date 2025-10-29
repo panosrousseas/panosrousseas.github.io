@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Robotics and Contorl Theory, School of Mechanical Engineering, National Technical University of Athens (NTUA), Greece, 2025
-* M.Sc., B.S. in Ground and Aerial Transport Vehicles, Mechanical Engineering,  National Technical University of Athens (NTUA), Greece, 2025
+* M.Sc., B.S. in Ground and Aerial Transport Vehicles, Mechanical Engineering,  National Technical University of Athens (NTUA), Greece, 2020
 
 Work experience
 ======
