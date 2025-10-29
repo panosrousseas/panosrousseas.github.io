@@ -8,8 +8,6 @@ date: 2023-01-01
 location: "Athens, Greece"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Tutorials on Advanced Control Systems' Theory (2023-2025)
 ======
 - Modelling, Lagrange and Newton Methods,
