@@ -24,7 +24,7 @@ Scholarships and Funding
 Awards and Distinctions
 ====
 * Thomaidio award for publications for the academic year 2020-2021,
-* Dipl. Mech. Eng. 2020, graduated 2nd in a class of 152 graduates.
+* Dipl. Mech. Eng. 2020, graduated **2nd** in a class of 152 graduates.
 
 Work experience
 ======
