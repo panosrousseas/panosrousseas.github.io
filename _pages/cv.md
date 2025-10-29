@@ -14,8 +14,6 @@ Education
 * Ph.D in Robotics and Contorl Theory, School of Mechanical Engineering, National Technical University of Athens (NTUA), Greece, 2025
 * M.Sc., B.S. in Ground and Aerial Transport Vehicles, Mechanical Engineering,  National Technical University of Athens (NTUA), Greece, 2020
 
-
-  
 Scholarships and Funding
 ======
 * Hellenic Foundation for Research and Innovation (HFRI), 4th Call for H.F.R.I. Scholarships to PhD Candidates (04 2023 – 04 2025)
