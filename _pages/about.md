@@ -12,6 +12,7 @@ He has worked as a Junior Researcher at NTUA for "Pathogen Contamination Emergen
 
 Ongoing Research 
 ======
+
 Synthesis of Complex Time-Varying Constraints
 -----
 
