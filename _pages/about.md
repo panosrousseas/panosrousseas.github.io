@@ -8,7 +8,4 @@ redirect_from:
 ---
 
 Dr. Panagiotis Rousseas is a Post Doctoral researcher in the Royal Institute of Technology (KTH), Stockholm Sweden. He received his PhD in Robotics and Control at the Control Systems Laboratory of the School of Mechanical Engineering, National Technical University of Athens (NTUA), under the supervision of Professor Kostas Kyriakopoulos in 2025. He graduated with the Diploma of Mechanical Engineering from NTUA in 2020. He has worked as a Junior Researcher at NTUA for "Pathogen Contamination Emergency Response Technologies (PathoCERT)", a European Union’s Horizon 2020 Research and Innovation Program, as well as visited the Robotics Department of the University of Michigan as a short term scholar in collaboration with Professor Dimitra Panagou. Part of his PhD research was funded under the "4th call for Scholarships to PhD Candidates" by the Hellenic Foundation for Research and Innovation (HFRI). His PhD thesis titled "Optimal Motion Planning for mobile robots using Reinforcement Learning (RL)" concentrates on combining RL with control theory to extract solutions with provable guarantees of safety, convergence and optimality. He is currently  interested in safe and robust planning and control in static and dynamic environments for safety-critical systems.
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
 ======
