@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Tutorials on Advanced Control Systems' Theory (2023-2025)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
