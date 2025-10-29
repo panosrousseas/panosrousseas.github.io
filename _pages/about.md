@@ -10,9 +10,9 @@ Dr. Panagiotis Rousseas is a **Post Doctoral researcher** in the **Royal Institu
 
 Example
 ======
-![Academic Pages template example](/images/conjunc_of_disjuncs2.gif)
+![Academic Pages template example](/images/con_of_dis.gif)
 
-![Academic Pages template example](/images/disjunc_of_conjuncs.gif)
+![Academic Pages template example](/images/dis_of_cons.gif)
 
 
 
