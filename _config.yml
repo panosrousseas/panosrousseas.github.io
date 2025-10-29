@@ -26,7 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Panagiotis Rousseas"
   pronouns         : # example: "she/her"  
-  bio              : "Post Doctoral researcher at KTH, PhD in Robotics and Control at NTUA, MSc Mech. Eng. Ntua"
+  bio              : "Post Doctoral researcher at KTH, 
+                      PhD in Robotics and Control at NTUA, 
+                      MSc Mech. Eng. NTUA"
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"
   uri              : # URL
