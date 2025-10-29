@@ -16,7 +16,7 @@ Ongoing Research
 Synthesis of Complex Time-Varying Constraints
 -----
 
-<img src="/images/con_of_dis.gif" width="350">   <img src="/images/dis_of_cons.gif" width="350">
+<img src="/images/con_of_dis.gif" width="375">   <img src="/images/dis_of_cons.gif" width="375">
 
 Feasibility-Informed Constraint Selection 
 -----
