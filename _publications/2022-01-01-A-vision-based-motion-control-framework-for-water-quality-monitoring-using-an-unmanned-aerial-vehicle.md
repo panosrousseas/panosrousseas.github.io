@@ -1,6 +1,7 @@
 ---
 title: "A vision-based motion control framework for water quality monitoring using an unmanned aerial vehicle"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-A-vision-based-motion-control-framework-for-water-quality-monitoring-using-an-unmanned-aerial-vehicle
 date: 2022-01-01
 venue: 'Sustainability'

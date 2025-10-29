@@ -1,6 +1,7 @@
 ---
 title: "Coastal Management Through Safe Event-Triggered Predictive Control for UAVs"
 collection: publications
+category: conferences
 permalink: /publication/2025-01-01-Coastal-Management-Through-Safe-Event-Triggered-Predictive-Control-for-UAVs
 date: 2025-01-01
 venue: 'In the proceedings of European Robotics Forum'

@@ -1,6 +1,7 @@
 ---
 title: "Reactive optimal motion planning to anywhere in the presence of moving obstacles"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Reactive-optimal-motion-planning-to-anywhere-in-the-presence-of-moving-obstacles
 date: 2024-01-01
 venue: 'The International Journal of Robotics Research'

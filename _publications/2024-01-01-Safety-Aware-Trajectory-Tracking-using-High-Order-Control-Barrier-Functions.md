@@ -1,6 +1,7 @@
 ---
 title: "Safety-Aware Trajectory Tracking using High-Order Control Barrier Functions"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Safety-Aware-Trajectory-Tracking-using-High-Order-Control-Barrier-Functions
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE 63rd Conference on Decision and Control (CDC)'

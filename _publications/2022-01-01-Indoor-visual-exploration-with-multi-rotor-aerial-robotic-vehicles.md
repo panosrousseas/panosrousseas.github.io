@@ -1,6 +1,7 @@
 ---
 title: "Indoor visual exploration with multi-rotor aerial robotic vehicles"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Indoor-visual-exploration-with-multi-rotor-aerial-robotic-vehicles
 date: 2022-01-01
 venue: 'Sensors'

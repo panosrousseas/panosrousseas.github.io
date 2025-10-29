@@ -1,6 +1,7 @@
 ---
 title: "Frontier-Based Exploration using Harmonic Transformations"
 collection: publications
+category: conferences
 permalink: /publication/2025-01-01-Frontier-Based-Exploration-using-Harmonic-Transformations
 date: 2025-01-01
 venue: 'In the proceedings of 2025 33rd Mediterranean Conference on Control and Automation (MED)'

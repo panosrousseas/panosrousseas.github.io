@@ -1,6 +1,7 @@
 ---
 title: "An Actor-Critic Reinforcement Learning Scheme for Reactive 3D Optimal Motion Planning Based on Fluid Dynamics"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-An-Actor-Critic-Reinforcement-Learning-Scheme-for-Reactive-3D-Optimal-Motion-Planning-Based-on-Fluid-Dynamics
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'

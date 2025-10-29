@@ -1,6 +1,7 @@
 ---
 title: "Robust and topology-aware motion planning with moving obstacles"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Robust-and-topology-aware-motion-planning-with-moving-obstacles
 date: 2025-01-01
 venue: 'The International Journal of Robotics Research'

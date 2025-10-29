@@ -1,6 +1,7 @@
 ---
 title: "Trajectory planning in unknown 2d workspaces: a smooth, reactive, harmonics-based approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Trajectory-planning-in-unknown-2d-workspaces-a-smooth-reactive-harmonics-based-approach
 date: 2022-01-01
 venue: 'IEEE Robotics and Automation Letters'

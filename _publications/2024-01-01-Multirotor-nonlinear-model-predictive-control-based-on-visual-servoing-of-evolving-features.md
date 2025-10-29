@@ -1,6 +1,7 @@
 ---
 title: "Multirotor nonlinear model predictive control based on visual servoing of evolving features"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Multirotor-nonlinear-model-predictive-control-based-on-visual-servoing-of-evolving-features
 date: 2024-01-01
 venue: 'Autonomous Robots'

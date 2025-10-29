@@ -1,6 +1,7 @@
 ---
 title: "Reinforcement learning-based optimal multiple waypoint navigation"
 collection: publications
+category: conferences
 permalink: /publication/2023-01-01-Reinforcement-learning-based-optimal-multiple-waypoint-navigation
 date: 2023-01-01
 venue: 'In the proceedings of 2023 IEEE International Conference on Robotics and Automation (ICRA)'

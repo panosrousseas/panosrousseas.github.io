@@ -1,6 +1,7 @@
 ---
 title: "A Tube-Based Reinforcement Learning Approach for Optimal Motion Planning in Unknown Workspaces"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-A-Tube-Based-Reinforcement-Learning-Approach-for-Optimal-Motion-Planning-in-Unknown-Workspaces
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE International Conference on Robotics and Automation (ICRA)'

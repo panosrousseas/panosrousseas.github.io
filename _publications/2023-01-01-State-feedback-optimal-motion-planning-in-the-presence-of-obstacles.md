@@ -1,6 +1,7 @@
 ---
 title: "State-feedback optimal motion planning in the presence of obstacles"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-State-feedback-optimal-motion-planning-in-the-presence-of-obstacles
 date: 2023-01-01
 venue: 'IEEE Robotics and Automation Letters'

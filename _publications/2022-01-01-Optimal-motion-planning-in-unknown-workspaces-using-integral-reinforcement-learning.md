@@ -1,6 +1,7 @@
 ---
 title: "Optimal motion planning in unknown workspaces using integral reinforcement learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Optimal-motion-planning-in-unknown-workspaces-using-integral-reinforcement-learning
 date: 2022-01-01
 venue: 'IEEE Robotics and Automation Letters'

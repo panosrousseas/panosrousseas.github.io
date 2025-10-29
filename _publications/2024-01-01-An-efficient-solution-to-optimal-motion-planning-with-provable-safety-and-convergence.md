@@ -1,6 +1,7 @@
 ---
 title: "An efficient solution to optimal motion planning with provable safety and convergence"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-An-efficient-solution-to-optimal-motion-planning-with-provable-safety-and-convergence
 date: 2024-01-01
 venue: 'IEEE Open Journal of Control Systems'

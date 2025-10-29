@@ -1,6 +1,7 @@
 ---
 title: "Harmonic-based optimal motion planning in constrained workspaces using reinforcement learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Harmonic-based-optimal-motion-planning-in-constrained-workspaces-using-reinforcement-learning
 date: 2021-01-01
 venue: 'IEEE Robotics and Automation Letters'

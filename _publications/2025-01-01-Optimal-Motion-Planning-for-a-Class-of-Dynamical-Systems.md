@@ -1,6 +1,7 @@
 ---
 title: "Optimal Motion Planning for a Class of Dynamical Systems"
 collection: publications
+category: conferences
 permalink: /publication/2025-01-01-Optimal-Motion-Planning-for-a-Class-of-Dynamical-Systems
 date: 2025-01-01
 venue: 'In the proceedings of 2025 IEEE International Conference on Robotics and Automation (ICRA)'

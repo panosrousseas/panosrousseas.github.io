@@ -1,6 +1,7 @@
 ---
 title: "Optimal robot motion planning in constrained workspaces using reinforcement learning"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-01-Optimal-robot-motion-planning-in-constrained-workspaces-using-reinforcement-learning
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
