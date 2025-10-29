@@ -1,7 +1,7 @@
 ---
 title: "Feasibility Evaluation of Quadratic Programs for Constrained Control"
 collection: publications
-category: arxiv
+category: preprints
 permalink: /publication/2025-01-01-Feasibility-Evaluation-of-Quadratic-Programs-for-Constrained-Control
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.12005'

@@ -1,7 +1,7 @@
 ---
 title: "Constraint Selection in Optimization-Based Controllers"
 collection: publications
-category: arxiv
+category: preprints
 permalink: /publication/2025-01-01-Constraint-Selection-in-Optimization-Based-Controllers
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2505.05502'
