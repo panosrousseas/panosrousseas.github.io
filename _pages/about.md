@@ -10,11 +10,17 @@ Dr. Panagiotis Rousseas is a **Post Doctoral researcher** in the **Royal Institu
 
 He has worked as a Junior Researcher at NTUA for "Pathogen Contamination Emergency Response Technologies (PathoCERT)", a **European Union’s Horizon 2020 Research and Innovation Program**, and part of his PhD research was funded under the **4th call for Scholarships to PhD Candidates** by the Hellenic Foundation for Research and Innovation (HFRI). His PhD thesis titled *"Optimal Motion Planning for mobile robots using Reinforcement Learning"* concentrates on combining RL with control theory to extract solutions with provable guarantees of safety, convergence and optimality. He is currently  interested in safe and robust planning and control in static and dynamic environments for safety-critical systems.
 
-Example
+Ongoing Research 
 ======
-![Conjunction of Disjunctions](/images/con_of_dis.gif)
+Synthesis of Complex Time-Varying Constraints
+-----
+<img src="/images/con_of_dis.gif" width="500">   <img src="/images/dis_of_cons.gif" width="500">
 
-![Disjunction of Conjunctions](/images/dis_of_cons.gif)
+Feasibility-Informed Constraint Selection 
+-----
+
+Optimal Control of Hybrid Differential Games 
+---
 
 
 
