@@ -32,18 +32,18 @@ author:
                       as well as visited the Robotics Department of the University of Michigan as a short term scholar in collaboration with Professor Dimitra Panagou. Part of his PhD research was funded under the "4th call for Scholarships to PhD Candidates" by 
                       the Hellenic Foundation for Research and Innovation (HFRI). His PhD thesis titled "Optimal Motion Planning for mobile robots using Reinforcement Learning (RL)" concentrates on combining RL with control theory to extract solutions with provable guarantees of safety, 
                       convergence and optimality. He is currently  interested in safe and robust planning and control in static and dynamic environments for safety-critical systems."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Stockholm, Sweden"
+  employer         : "KTH Royal Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rousseas@kth.se" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=el&user=OTa80LEAAAAJ&view_op=list_works"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4669-3204"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
