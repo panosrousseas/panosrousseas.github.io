@@ -18,8 +18,8 @@ Education
   
 Scholarships and Funding
 ======
-* Hellenic Foundation for Research and Innovation (HFRI) 04 2023 – 04 2025, 4th Call for H.F.R.I. Scholarships to PhD Candidates
-* A.G. Leventis Foundation 09 2022, Educational Grant
+* Hellenic Foundation for Research and Innovation (HFRI), 4th Call for H.F.R.I. Scholarships to PhD Candidates (04 2023 – 04 2025)
+* A.G. Leventis Foundation, Educational Grant (09 2022)
 
 Awards and Distinctions
 ====
