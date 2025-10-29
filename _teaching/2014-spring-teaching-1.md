@@ -8,8 +8,8 @@ date: 2023-01-01
 location: "Athens, Greece"
 ---
 
-Tutorials on Advanced Control Systems' Theory (2023-2025)
-======
+Tutorials for Undergraduate Students on Advanced Control Systems' Theory (2023-2025)
+----
 - Modelling, Lagrange and Newton Methods,
 - Linearization of Nonlinear Systems,
 - Linear Systems, Controllability/Observability, Feedback Controller/Observer Design,
