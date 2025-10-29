@@ -23,6 +23,10 @@ Synthesizing multiple constraints under multiple disjunction and conjunction ope
 Feasibility-Informed Constraint Selection 
 -----
 
+Multiple constraints are often conflicting and incur infeasibility of optimization-based controllers. Detecting infeasibility and selecting among mutually feasible constraints is a challenging open problem.   
+
+<img src="/images/con_sel.gif" width="775">
+
 Optimal Control of Hybrid Differential Games 
 ---
 
