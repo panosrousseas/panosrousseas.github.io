@@ -16,6 +16,7 @@ Dr. Rousseas is currently researching several key areas in autonomous systems an
 
 Synthesis of Complex Time-Varying Constraints
 -----
+Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
 
 <img src="/images/con_of_dis.gif" width="375">   <img src="/images/dis_of_cons.gif" width="375">
 
