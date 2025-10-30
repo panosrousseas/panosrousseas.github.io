@@ -32,17 +32,5 @@ Work experience
 * PathoCERT EU Horizon 2020, Junior Researcher at NTUA for Pathogen Contamination Emergency Response Technologies (PathoCERT), European Union’s Horizon 2020 Research and Innovation Program under grant agreement No. 883484. (10 2020 – 03 2023 )
 * Patent Translations, Conducting Translations from English to Greek of international patents in association with a Greek law firm (01 2017 – Present)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
