@@ -1,7 +1,7 @@
 ---
 title: "Feasibility-aware hybrid control for motion planning under signal temporal logics"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/2026-01-01-feasibility-aware-hybrid-control-for-motion-planning-under-signal-temporal-logics
 date: 2026-01-01
 venue: 'Nonlinear Analysis: Hybrid Systems, Volume 61, 2026'
