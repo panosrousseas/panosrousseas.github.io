@@ -19,6 +19,14 @@ Ongoing Research
 ======
 Dr. Rousseas is currently researching several key areas in autonomous systems and robotics: 
 
+Operator-Based Nested STL
+-----
+>An operator-based framework for control synthesis and verification of arbitrarily nested STL formulae.
+
+<img src="/images/results_aff_3.gif" width="775">  
+
+-----
+
 Synthesis of Complex Time-Varying Constraints
 -----
 >Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
