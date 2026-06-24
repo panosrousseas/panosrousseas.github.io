@@ -28,6 +28,7 @@ Operator-Based Nested STL
 Synthesis of Complex Time-Varying Constraints
 -----
 >Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
+
 <img src="/images/con_of_dis.gif" width="370">  <img src="/images/dis_of_cons.gif" width="370">
 
 Feasibility-Informed Constraint Selection 
