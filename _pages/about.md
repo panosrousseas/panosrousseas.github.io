@@ -22,22 +22,22 @@ Dr. Rousseas is currently researching several key areas in autonomous systems an
 Operator-Based Nested STL
 -----
 >An operator-based framework for control synthesis and verification of arbitrarily nested STL formulae.
-<img src="/images/results_aff_3.gif" width="775">  
+<img src="/images/results_aff_3.gif" width="775">
 
-
-Synthesis of Complex Time-Varying Constraints
+Feasibility-Aware Control
 -----
->Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
-
-<img src="/images/con_of_dis.gif" width="370">  <img src="/images/dis_of_cons.gif" width="370">
+>Dual programming-based control for persistent feasibility, example of an input-saturated double integrator.
+<img src="/images/extreme_rays.gif" width="775">  
 
 Feasibility-Informed Constraint Selection 
 -----
 >Multiple constraints are often conflicting and incur infeasibility of optimization-based controllers. Detecting infeasibility and selecting among mutually feasible constraints is a challenging open problem.   
 <img src="/images/con_sel.gif" width="775">
 
-Optimal Control of Hybrid Differential Games 
----
+Synthesis of Complex Time-Varying Constraints
+-----
+>Synthesizing multiple constraints under multiple disjunction and conjunction operations is an active research field with various applications for robotic and autonomous systems.
 
+<img src="/images/con_of_dis.gif" width="370">  <img src="/images/dis_of_cons.gif" width="370">
 
 
