@@ -28,7 +28,7 @@ Feasibility-Aware Control
 -----
 >Dual programming-based control for persistent feasibility, example of an input-saturated double integrator.
 
-<img src="/images/extreme_rays3.gif" width="750">  
+<img src="/images/extreme_rays3.gif" width="370">  <img src="/images/extreme_rays4.gif" width="370">  
 
 Feasibility-Informed Constraint Selection 
 -----
