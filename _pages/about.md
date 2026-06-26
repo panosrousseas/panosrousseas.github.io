@@ -26,7 +26,7 @@ Operator-Based Nested STL
 
 Feasibility-Aware Control
 -----
->Dual programming-based control for persistent feasibility, example of an input-saturated double integrator.
+>Dual programming-based control for persistent feasibility, example of an input-saturated double integrator. Different trajectories for various values of the parameters of our method, from more (blue) to less (red) aggressive.
 
 <img src="/images/extreme_rays5.gif" width="450"> 
 
